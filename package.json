@@ -1,13 +1,12 @@
 {
   "name": "xpns-accounting-app-client-side-server",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.6.0",
+  "description": "XPNS accounting app client side server",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "st": "nodemon app.js"
   },
-  "author": "",
+  "author": "maxbovtun@gmail.com",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.3",
